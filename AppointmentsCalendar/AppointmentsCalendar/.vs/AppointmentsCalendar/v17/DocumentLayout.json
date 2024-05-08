@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE46B922-FE3E-492B-8B7E-B5E3346B710F}|CalenderTest\\CalenderTest.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\calendertest\\calendertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE46B922-FE3E-492B-8B7E-B5E3346B710F}|CalenderTest\\CalenderTest.csproj|solutionrelative:calendertest\\calendertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dataaccess\\appointmentdetailsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dataaccess\\appointmentdetailsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dto\\appointmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dto\\appointmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dataaccess\\appointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dataaccess\\appointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\services\\home.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\services\\home.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\shared\\interfaces\\iappointmentdetails.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\shared\\interfaces\\iappointmentdetails.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\business\\appointmentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\business\\appointmentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\business\\iappointmentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\business\\iappointmentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dataaccess\\iappointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dataaccess\\iappointmentdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\business\\appointmentdetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\business\\appointmentdetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\business\\iappointmentdetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\business\\iappointmentdetailsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendar.server\\dataaccess\\iappointmentdetailsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C3648-AE3A-4718-9CDE-00044C9D8692}|AppointmentsCalendar.Server\\Server.csproj|solutionrelative:appointmentscalendar.server\\dataaccess\\iappointmentdetailsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\shared\\interfaces\\imonth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\shared\\interfaces\\imonth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\test.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\src\\polyfills.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\src\\polyfills.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\.browserslistrc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\.browserslistrc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|d:\\calenderappointment\\appointmentscalendar\\appointmentscalendar\\appointmentscalendarclient\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75457A2E-2296-40DC-93D0-0453BDE14827}|AppointmentsCalendarClient\\Client.esproj|solutionrelative:appointmentscalendarclient\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalenderTest.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\CalenderTest\\CalenderTest.cs",
+              "RelativeDocumentMoniker": "CalenderTest\\CalenderTest.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\CalenderTest\\CalenderTest.cs",
+              "RelativeToolTip": "CalenderTest\\CalenderTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:51:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentDetailsDto.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DTO\\AppointmentDetailsDto.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DTO\\AppointmentDetailsDto.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DTO\\AppointmentDetailsDto.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DTO\\AppointmentDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:54:40.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:00:34.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentDetailsDataAccess.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\AppointmentDetailsDataAccess.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DataAccess\\AppointmentDetailsDataAccess.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\AppointmentDetailsDataAccess.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DataAccess\\AppointmentDetailsDataAccess.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:23:00.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.http",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Server.http",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Server.http",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Server.http",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-08T12:53:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\appsettings.json",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\appsettings.json",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T06:51:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Program.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Program.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:51:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentDetailsController.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Controllers\\AppointmentDetailsController.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Controllers\\AppointmentDetailsController.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Controllers\\AppointmentDetailsController.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Controllers\\AppointmentDetailsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwBYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:18:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:52:50.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentDataAccess.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\AppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DataAccess\\AppointmentDataAccess.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\AppointmentDataAccess.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DataAccess\\AppointmentDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:22:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DTO\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DTO\\AppointmentDto.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DTO\\AppointmentDto.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DTO\\AppointmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:23:53.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.component.html",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.html",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.html",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.html",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T05:10:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home.module.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\home.module.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\home.module.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\home.module.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\home.module.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:14:24.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\index.html",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\index.html",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\index.html",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-07T11:41:42.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appointment-details.component.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:55:29.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appointment.component.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:20:24.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "calendar.component.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.ts",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBJwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:32:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appointment-details.component.html",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T06:43:38.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appointment.component.spec.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T11:54:36.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appointment.component.css",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment\\appointment.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T11:54:26.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "home.service.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\services\\home.service.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\services\\home.service.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\services\\home.service.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\services\\home.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T05:39:47.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.component.css",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.css",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.css",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.css",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T12:00:02.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:55:39.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.module.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:58:41.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appointment-details.component.spec.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T11:41:17.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appointment-details.component.css",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\appointment-details\\appointment-details.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T11:41:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "calendar.component.css",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T11:41:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAppointmentDetails.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IAppointmentDetails.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IAppointmentDetails.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IAppointmentDetails.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IAppointmentDetails.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T06:50:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "calendar.component.spec.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\calendar\\calendar.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T06:31:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\modules\\home\\components\\home\\home.component.spec.ts",
+              "ViewState": "AQIAACEAAAAAAAAAAAAawCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T12:00:06.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAppointmentBusiness.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\IAppointmentBusiness.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Business\\IAppointmentBusiness.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\IAppointmentBusiness.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Business\\IAppointmentBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:39:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppointmentBusiness.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\AppointmentBusiness.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Business\\AppointmentBusiness.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\AppointmentBusiness.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Business\\AppointmentBusiness.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:38:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAppointmentDataAccess.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\IAppointmentDataAccess.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DataAccess\\IAppointmentDataAccess.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\IAppointmentDataAccess.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DataAccess\\IAppointmentDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:23:04.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppointmentDetailsBusiness.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\AppointmentDetailsBusiness.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Business\\AppointmentDetailsBusiness.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\AppointmentDetailsBusiness.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Business\\AppointmentDetailsBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:39:09.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAppointmentDetailsBusiness.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\IAppointmentDetailsBusiness.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\Business\\IAppointmentDetailsBusiness.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\Business\\IAppointmentDetailsBusiness.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\Business\\IAppointmentDetailsBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:39:18.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAppointmentDetailsDataAccess.cs",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\IAppointmentDetailsDataAccess.cs",
+              "RelativeDocumentMoniker": "AppointmentsCalendar.Server\\DataAccess\\IAppointmentDetailsDataAccess.cs",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendar.Server\\DataAccess\\IAppointmentDetailsDataAccess.cs",
+              "RelativeToolTip": "AppointmentsCalendar.Server\\DataAccess\\IAppointmentDetailsDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:23:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IMonth.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IMonth.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IMonth.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IMonth.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\shared\\interfaces\\IMonth.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-08T04:07:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\app.component.spec.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T09:11:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\app.component.html",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.html",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-07T07:06:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "app.component.css",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\app\\app.component.css",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\app\\app.component.css",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T12:55:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\proxy.conf.js",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\proxy.conf.js",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-07T07:11:45.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": ".browserslistrc",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.browserslistrc",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\.browserslistrc",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.browserslistrc",
+              "RelativeToolTip": "AppointmentsCalendarClient\\.browserslistrc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T07:11:42.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "test.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\test.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\test.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\test.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\test.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T07:11:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "polyfills.ts",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\polyfills.ts",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\src\\polyfills.ts",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\src\\polyfills.ts",
+              "RelativeToolTip": "AppointmentsCalendarClient\\src\\polyfills.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-07T07:12:02.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.editorconfig",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\.editorconfig",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.editorconfig",
+              "RelativeToolTip": "AppointmentsCalendarClient\\.editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T07:11:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.gitignore",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\.gitignore",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\.gitignore",
+              "RelativeToolTip": "AppointmentsCalendarClient\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T07:11:39.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\angular.json",
+              "RelativeDocumentMoniker": "AppointmentsCalendarClient\\angular.json",
+              "ToolTip": "D:\\CalenderAppointment\\AppointmentsCalendar\\AppointmentsCalendar\\AppointmentsCalendarClient\\angular.json",
+              "RelativeToolTip": "AppointmentsCalendarClient\\angular.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T07:10:18.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

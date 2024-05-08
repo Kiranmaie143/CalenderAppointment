@@ -1,0 +1,5 @@
+<div class="horizontal-months">
+  <div *ngFor="let month of months" class="month" [ngClass]="{ 'active': monthId == month.Id}" (click)="monthClicked(month.Id)">
+    {{ month.Name }}
+  </div>
+</div>

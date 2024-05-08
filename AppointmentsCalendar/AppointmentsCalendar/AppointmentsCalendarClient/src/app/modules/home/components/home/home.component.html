@@ -1,0 +1,14 @@
+
+<div>
+  <h1 class="align-left">Appointment</h1>
+  <div class="box padding-left">
+    <h3 class="align-left">Choose your month:</h3>
+    <app-calendar (calendarClick)="onCalendarClicked($event)"></app-calendar>
+    <div class="appointment-section">
+      <app-appointment [monthId]="monthId" (appointmentClick)="onappointmentClicked($event)" class="width50">
+      </app-appointment>
+      <app-appointment-details [appointment]="appointment" class="width50">
+      </app-appointment-details>
+    </div>
+  </div>
+</div>

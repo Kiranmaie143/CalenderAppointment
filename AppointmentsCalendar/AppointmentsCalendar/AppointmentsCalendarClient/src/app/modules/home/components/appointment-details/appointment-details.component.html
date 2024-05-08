@@ -1,0 +1,11 @@
+
+<div class="box scrollable" *ngIf="appointment.id !== 0">
+  <p> Description : {{ appointmentDetails.description }}</p>
+  <p> Date : {{ appointment.startTime | date:'MM/dd/yyyy h:mm a'}} to {{ appointment.endTime | date:'MM/dd/yyyy h:mm a'}}</p>
+  <p> Organizer : {{ appointmentDetails.organizer }}</p>
+  <p> Attendees :</p>
+  <ul *ngFor="let attendy of appointmentDetails.attendies">
+    <li>{{attendy}}</li>
+  </ul>
+</div>
+

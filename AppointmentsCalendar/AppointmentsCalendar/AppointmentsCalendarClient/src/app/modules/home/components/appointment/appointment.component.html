@@ -1,0 +1,15 @@
+
+<div *ngIf="appointments.length !==0; else noAppointmentsMessage">
+  <div class="box scrollable">
+    <ul *ngFor="let app of appointments">
+      <li>
+        <span>{{ app.startTime | date:'MM/dd/yyyy h:mm a'}} to {{ app.endTime | date:'MM/dd/yyyy h:mm a'}}</span> :
+        <span class="link" (click)="appointmentClicked(app)"  [ngClass]="{ 'active': appointmentId === app.id}" >{{app.title}}</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<ng-template #noAppointmentsMessage>
+  <div>No appointments found.</div>
+</ng-template>

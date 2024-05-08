@@ -1,0 +1,23 @@
+.appointment-section {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  text-align: left;
+}
+
+.box {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.padding-left {
+  padding-left: 30px;
+}
+
+.width50 {
+  width: 50%;
+}

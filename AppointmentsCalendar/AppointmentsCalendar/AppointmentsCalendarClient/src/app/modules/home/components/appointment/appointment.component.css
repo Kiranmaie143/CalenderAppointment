@@ -1,0 +1,29 @@
+.box {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.scrollable {
+  height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+span.link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+  span.link:hover {
+    color: red;
+  }
+
+.active {
+  color: red !important;
+}

@@ -1,0 +1,2 @@
+D:\DDD\AppointmentsCalendar\AppointmentsCalendarClient\obj\Debug\Client.esproj.CoreCompileInputs.cache
+C:\Users\ejvar\Downloads\AppointmentsCalendar\AppointmentsCalendar\AppointmentsCalendarClient\obj\Debug\Client.esproj.CoreCompileInputs.cache
